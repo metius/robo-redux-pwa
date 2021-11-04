@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/robo-redux-pwa/static/css/main.9b4d33aa.chunk.css",
-    "main.js": "/robo-redux-pwa/static/js/main.c1197317.chunk.js",
-    "main.js.map": "/robo-redux-pwa/static/js/main.c1197317.chunk.js.map",
-    "runtime-main.js": "/robo-redux-pwa/static/js/runtime-main.1992cb46.js",
-    "runtime-main.js.map": "/robo-redux-pwa/static/js/runtime-main.1992cb46.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/robo-redux-pwa/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.b37c9fda.chunk.js": "/robo-redux-pwa/static/js/2.b37c9fda.chunk.js",
-    "static/js/2.b37c9fda.chunk.js.map": "/robo-redux-pwa/static/js/2.b37c9fda.chunk.js.map",
+    "main.css": "/robo-redux-pwa/static/css/main.18113860.chunk.css",
+    "main.js": "/robo-redux-pwa/static/js/main.1061560f.chunk.js",
+    "main.js.map": "/robo-redux-pwa/static/js/main.1061560f.chunk.js.map",
+    "runtime-main.js": "/robo-redux-pwa/static/js/runtime-main.aa331cc1.js",
+    "runtime-main.js.map": "/robo-redux-pwa/static/js/runtime-main.aa331cc1.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/robo-redux-pwa/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.2da90b4d.chunk.js": "/robo-redux-pwa/static/js/2.2da90b4d.chunk.js",
+    "static/js/2.2da90b4d.chunk.js.map": "/robo-redux-pwa/static/js/2.2da90b4d.chunk.js.map",
     "index.html": "/robo-redux-pwa/index.html",
-    "precache-manifest.037a9200c87a6c286bf459926537551c.js": "/robo-redux-pwa/precache-manifest.037a9200c87a6c286bf459926537551c.js",
-    "service-worker.js": "/robo-redux-pwa/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/robo-redux-pwa/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.9b4d33aa.chunk.css.map": "/robo-redux-pwa/static/css/main.9b4d33aa.chunk.css.map",
-    "static/js/2.b37c9fda.chunk.js.LICENSE.txt": "/robo-redux-pwa/static/js/2.b37c9fda.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robo-redux-pwa/static/media/SEGA.12a3db8b.woff"
+    "static/css/2.6d7c7915.chunk.css.map": "/robo-redux-pwa/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.18113860.chunk.css.map": "/robo-redux-pwa/static/css/main.18113860.chunk.css.map",
+    "static/js/2.2da90b4d.chunk.js.LICENSE.txt": "/robo-redux-pwa/static/js/2.2da90b4d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robo-redux-pwa/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.1992cb46.js",
-    "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.b37c9fda.chunk.js",
-    "static/css/main.9b4d33aa.chunk.css",
-    "static/js/main.c1197317.chunk.js"
+    "static/js/runtime-main.aa331cc1.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.2da90b4d.chunk.js",
+    "static/css/main.18113860.chunk.css",
+    "static/js/main.1061560f.chunk.js"
   ]
 }
