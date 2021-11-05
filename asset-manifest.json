@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/robo-redux-pwa/static/css/main.18113860.chunk.css",
-    "main.js": "/robo-redux-pwa/static/js/main.1061560f.chunk.js",
-    "main.js.map": "/robo-redux-pwa/static/js/main.1061560f.chunk.js.map",
+    "main.js": "/robo-redux-pwa/static/js/main.88240b8e.chunk.js",
+    "main.js.map": "/robo-redux-pwa/static/js/main.88240b8e.chunk.js.map",
     "runtime-main.js": "/robo-redux-pwa/static/js/runtime-main.aa331cc1.js",
     "runtime-main.js.map": "/robo-redux-pwa/static/js/runtime-main.aa331cc1.js.map",
     "static/css/2.6d7c7915.chunk.css": "/robo-redux-pwa/static/css/2.6d7c7915.chunk.css",
     "static/js/2.2da90b4d.chunk.js": "/robo-redux-pwa/static/js/2.2da90b4d.chunk.js",
     "static/js/2.2da90b4d.chunk.js.map": "/robo-redux-pwa/static/js/2.2da90b4d.chunk.js.map",
     "index.html": "/robo-redux-pwa/index.html",
+    "service-worker.js": "/robo-redux-pwa/service-worker.js",
+    "service-worker.js.map": "/robo-redux-pwa/service-worker.js.map",
     "static/css/2.6d7c7915.chunk.css.map": "/robo-redux-pwa/static/css/2.6d7c7915.chunk.css.map",
     "static/css/main.18113860.chunk.css.map": "/robo-redux-pwa/static/css/main.18113860.chunk.css.map",
     "static/js/2.2da90b4d.chunk.js.LICENSE.txt": "/robo-redux-pwa/static/js/2.2da90b4d.chunk.js.LICENSE.txt",
@@ -19,6 +21,6 @@
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.2da90b4d.chunk.js",
     "static/css/main.18113860.chunk.css",
-    "static/js/main.1061560f.chunk.js"
+    "static/js/main.88240b8e.chunk.js"
   ]
 }
